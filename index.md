@@ -17,6 +17,8 @@ React SPA, PWA, Docker, TypeScript, NodeJs
 Stencil, Svelte, Openresty, Postgrest, Lua, Tarantool, Go, PL/pgSQL, Perl
 
 ### Objective
+I've been working as frontend engineer for more than 10+ years in 3 countries, in enterprises and startups, in domain of marketplaces, e-commerce, entertaiment and online-services.
+
 As a highly-skilled, innovative and creative team player I am looking for the competitive Front-End Engineer position where I can utilize my 10+ years of experience in delivering the most valuable user experience within reasonable timing. Having started as a PHP CMS developer and having passed through all stages of enterprise-level projects I possess profound knowledge of flexibility and creativity needed to meet user requirements and exceed the expectations. Along with my passion to learn and wide practical experience in using the cutting edge front-end tools and technologies including React, TypeScript, Webpack and others I always keep a project in modern and highly maintainable state so vital for stability and success.
 
 ---
@@ -63,15 +65,20 @@ It was a hard experience
 `June 2018 - June 2019`
 __Senior Frontend Developer​ at B​TSDigital__
 It was a very positive experience in my career: most of the projects we started from scratch so I was able to choose the apropriate stack and our development process was on bleeding edge. There’s been a focus on spreading knowledge, person and professional growth, and build great products that work to solve client and user needs. My role has allowed my to take ownership in my work why teaching and learning from others in skills and technologies well outside my comfort zone.
-Full-stack responsibilities from the scratch:
-- setting up GitLab CI/CD pipelines and GitLab-Runners
-- designing DB and implementing API service with NodeJS and GO - developing frontend with React and Cordova for mobile app
-- working in Scrum
 * Featured Projects:
 - Jetiata: Family-tree
 - Smarttoy
 - Dosmart
 - PriceScanner
+Full-stack responsibilities from the scratch:
+- setting up GitLab CI/CD pipelines and GitLab-Runners
+- designing DB and implementing API service with NodeJS and GO - developing frontend with React and Cordova for mobile app
+- working in Scrum
+- gitlab ci/cd
+Trello
+JIRA
+Nginx
+Agile SCRUM
 
 `February 2013 - June 2018`
 __Frontend ​Engineer​ at Mail.Ru Group__
