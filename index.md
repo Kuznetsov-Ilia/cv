@@ -11,7 +11,7 @@ Software Engineer
 </div>
 
 ### Objective
-I've been working as software engineer for 12 years in 3 countries, in enterprises and startups, in domains of marketplace, e-commerce, entertaiment and social network.
+I've been working as software engineer for 13 years in 3 countries, in enterprises and startups, in domains of marketplace, e-commerce, entertaiment and social network.
 As a highly-skilled, innovative and creative team player I am looking for the competitive engineer position where I can utilize my experience in delivering the most valuable user experience within reasonable timing. Having started as a PHP CMS developer and having passed through all stages of enterprise-level projects I possess profound knowledge of flexibility and creativity needed to meet user requirements and exceed the expectations. Along with my passion to learn and wide practical experience in using the cutting edge front-end tools and technologies including React, TypeScript I always keep a project in modern and highly maintainable state so vital for stability and success.
 
 ### Specialized in
