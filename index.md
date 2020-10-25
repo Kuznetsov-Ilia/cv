@@ -18,7 +18,7 @@ As a highly-skilled, innovative and creative team player I am looking for the co
 SPA, PWA, Docker, React, TypeScript, NodeJs
 
 ### Research interests
-Stencil, Svelte, MongoDB
+Stencil, Snowpack, Svelte, lit-html, MongoDB
 
 ### Background
 Go, Php, Perl, Lua, Postgrest, PL/pgSQL, Openresty, Tarantool
@@ -148,12 +148,12 @@ __The city of Moscow State-Funded Educational Institution of Higher Professional
 __Engineer-economist major in “Economics and Company Management (branch-wise)”__
 
 ## Free time
-I like listening to podcasts, watching youtube channels of googlers (espesially Jake Archibald and Surma), following front-end gurus on twitter (like Axel Rauschmayer) and of course reading technical articles to be in touch with the latest tendencies and bleeding edge of front-end development. I like travelling, bicycles, football, diving, ski and squash. I also like attending tech conferences, hackathons and meetups.
+I like listening to podcasts, watching youtube channels of googlers (espesially Jake Archibald and Surma), following front-end gurus on twitter (like Axel Rauschmayer) and of course reading technical articles to be in touch with the latest tendencies and bleeding edge of front-end development. I like travelling, bicycles, football, diving, ski and squash. I also like attending tech conferences, hackathons and meetups. I am contantly improving my english and french by taking group and individual cources.
 
 ## Languages
 * Russian - native
-* English - upper intermediate (Berlitz Certificate)
-* French - A1
+* English - upper intermediate (Berlitz certificate)
+* French - A1.2 (CECRL certificate)
 
 <!-- ### Footer
 
