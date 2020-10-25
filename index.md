@@ -55,10 +55,11 @@ __Senior Software Engineer​ at ​DoclerHolding__
     * mentor teammates by providing extended cr, technical meetups, pair programming
     * teaching and learning from others in skills and technologies well outside my comfort zone
     * focus on spreading knowledge, professional growth and mentoring
+    * interviewing new candidates
 * Stack
-    * React, Typescript, Storybook, TSlint
+    * React (Hooks, new Context Api), Typescript, Storybook, TSlint
     * Codecept, jest, enzyme, testing-library
-    * Sass, PostCSS, ​Prettier,
+    * PostCSS, Sass, Styled Components, ​Prettier,
     * Docker
 * Featured Projects:
     * admin panels, landings and feature-projects.
@@ -79,11 +80,11 @@ __Senior Software Engineer​ at B​TSDigital__
     * cross-team knowledge sharing meetings
     * making workshops about Web Technologies
 * Stack
-    * Typescript, CRA, React, Redux, Saga
-    * Jest, Enzyme, Cypress, Test-Café
-    * PostCSS, CSS-in-JS, Styled Components
-    * Cordova, Ionic framework,
-    * Nodejs, Go, Postgress, Postrest, Openresty, 
+    * Typescript, CRA, React, Redux, Saga, Socket.io
+    * Jest, Enzyme, Cypress, TestCafé
+    * Material-UI, PostCSS, CSS-in-JS,
+    * Cordova, Ionic framework, React Native
+    * Nodejs, MongoDB, Go, Postgress, Postrest, Openresty, RabbitMQ, Redis
     * Docker
 * Featured Projects:
     * JetiAta (app, social)
@@ -97,7 +98,7 @@ __Frontend ​Engineer​ at Mail.Ru Group__
 * Environment
     * one of the largest IT companies in the eastern part of the European continent.
     * Kanban, Waterfall. small teams with tech-leads.
-    * Jira, Confluence, Gitlab, 
+    * Jira, Confluence, Gitlab, ICQ, Sketch, Photoshop
 * Key responsibilities:
     * refactor and redesign frontend architecture
     * design and implement CI/CD 
@@ -105,6 +106,7 @@ __Frontend ​Engineer​ at Mail.Ru Group__
     * improve code quality
     * monitor, analyse and visualise error and csp-reports
     * A/B test management
+    * web page performance optimizations
 * Stack:
     * React, Webpack
     * Tape, Cucumber js
@@ -144,6 +146,14 @@ Support and development of small projects based on 1C-bitrix CMS.
 ` 2003-2008`
 __The city of Moscow State-Funded Educational Institution of Higher Professional Education “Peoples’ Friendship University of Russia” (RUDN)__
 __Engineer-economist major in “Economics and Company Management (branch-wise)”__
+
+## Free time
+I like listening to podcasts, watching youtube channels of googlers (espesially Jake Archibald and Surma), following front-end gurus on twitter (like Axel Rauschmayer) and of course reading technical articles to be in touch with the latest tendencies and bleeding edge of front-end development. I like travelling, bicycles, football, diving, ski and squash. I also like attending tech conferences, hackathons and meetups.
+
+## Languages
+* Russian - native
+* English - upper intermediate (Berlitz Certificate)
+* French - A1
 
 <!-- ### Footer
 
