@@ -1,0 +1,202 @@
+I"�$<h1 id="ilia-kuznetsov">Ilia Kuznetsov</h1>
+<p>Software Engineer</p>
+
+<div id="webaddress">
+    <a href="mailto:ilia.q.86@gmail.com">ilia.q.86@gmail.com</a>
+    <a href="call:+352621825223">+352 621-825-223</a>
+</div>
+
+<h3 id="objective">Objective</h3>
+<p>I’ve been working as software engineer for 13 years in 3 countries, in enterprises and startups, in domains of marketplace, e-commerce, entertaiment and social network.
+As a highly-skilled, innovative and creative team player I am looking for the competitive engineer position where I can utilize my experience in delivering the most valuable user experience within reasonable timing. Having started as a PHP CMS developer and having passed through all stages of enterprise-level projects I possess profound knowledge of flexibility and creativity needed to meet user requirements and exceed the expectations. Along with my passion to learn and wide practical experience in using the cutting edge front-end tools and technologies including React, TypeScript I always keep a project in modern and highly maintainable state so vital for stability and success.</p>
+
+<h3 id="specialized-in">Specialized in</h3>
+<p>SPA, PWA, Docker, React, TypeScript, NodeJs</p>
+
+<h3 id="research-interests">Research interests</h3>
+<p>Stencil, Snowpack, Svelte, lit-html, MongoDB</p>
+
+<h3 id="background">Background</h3>
+<p>Go, Php, Perl, Lua, Postgrest, PL/pgSQL, Openresty, Tarantool</p>
+
+<h3 id="technical-skills">Technical Skills</h3>
+<p>| Area          |  Sub-area                     | Exp   |
+|————– |:—————————–:|——:|
+| Languages     | JS, TypeScript, NodeJs        | +++++ |
+| Libraries     | React, Redux, Storybook       | +++++ |
+| Mobile        | React Native, Ionic           | ++    |
+| Technologies  | SPA, PWA, Docker              | ++++  |
+| Bundlers      | Webpack, Rollup, Gulp, Stencil| +++   |
+| Linters       | (ES/T​S/Style)lint, ​Prettier   | ++++  |
+| Testing       | Jest, Testing Lib, CodeceptJs | +++++ |
+| CI/CD         | Gitlab, Github, Bamboo        | ++++  |
+| Styling       | CSS Modules, PostCSS, Sass    | +++++ |
+| Extra         | Go, Openresty, Postgrest      | ++    |</p>
+
+<h2 id="professional-experience">Professional experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">June 2019 - Present</code>
+<strong>Senior Software Engineer​ at ​DoclerHolding</strong></p>
+<ul>
+  <li>Environment:
+    <ul>
+      <li>quickly growing medium enterprise company with a startup spirit in entertainment sector</li>
+      <li>Agile, Scrum, 2 weeks sprints with everyday releases. classical hierarchy with leads inside the team.</li>
+      <li>Jira, Confluence, Stash, Bamboo, MS Teams, Invision</li>
+      <li>10yo legacy codebase (Extjs, Jquery, Riot.js, own-framework) tightly nailed to php-backend</li>
+      <li>constantly changing system requirements for multilingual, multi theme and multi device projects</li>
+    </ul>
+  </li>
+  <li>Key responsibilities:
+    <ul>
+      <li>support, develop and refactor a huge legacy code-base</li>
+      <li>upgrade project development infrastructure and tooling</li>
+      <li>research, consolidate technical plans for product feature implementation</li>
+      <li>oversee best coding practices and long term code quality and reliability</li>
+      <li>mentoring teammates by providing extended cr, technical meetups, pair programming</li>
+      <li>teaching and learning from others in skills and technologies well outside my comfort zone</li>
+      <li>focus on spreading knowledge, professional growth and mentoring</li>
+      <li>interviewing new candidates</li>
+    </ul>
+  </li>
+  <li>Stack
+    <ul>
+      <li>React (Hooks, new Context Api), Redux slices, Typescript, Storybook</li>
+      <li>Codecept, jest, enzyme, testing-library, TSlint</li>
+      <li>PostCSS, Sass, Styled Components, ​Prettier</li>
+      <li>Docker</li>
+    </ul>
+  </li>
+  <li>Featured Projects:
+    <ul>
+      <li>admin panels, landings and feature-projects.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">June 2018 - June 2019 (1 year)</code>
+<strong>Senior Software Engineer​ at B​TSDigital</strong></p>
+<ul>
+  <li>Environment
+    <ul>
+      <li>growing startup in domains: social, government service, marketplace, market research.</li>
+      <li>Agile, Scrum, 1 week sprints. teamlead-less teams. Tribal structure with leads only in chapters.</li>
+      <li>Gitlab, Jira, Confluence, Slack, G-Suite, Figma, Miro, Anana, Trello</li>
+    </ul>
+  </li>
+  <li>Key responsibilities:
+    <ul>
+      <li>technical decision making</li>
+      <li>deployment and full DevOps engineering GitLab CI/CD pipelines</li>
+      <li>develop REST APIs</li>
+      <li>lead a small team of Junior and Mid-level developers</li>
+      <li>provide the necessary technical expertise and support</li>
+      <li>cross-team knowledge sharing meetings</li>
+      <li>making workshops about Web Technologies</li>
+    </ul>
+  </li>
+  <li>Stack
+    <ul>
+      <li>Typescript, CRA, React, Redux, Saga, Socket.io</li>
+      <li>Jest, Enzyme, Cypress, TestCafé</li>
+      <li>Material-UI, PostCSS, CSS-in-JS,</li>
+      <li>Cordova, Ionic framework, React Native</li>
+      <li>Nodejs, MongoDB, Go, Postgress, Postrest, Openresty, RabbitMQ, Redis</li>
+      <li>Docker</li>
+    </ul>
+  </li>
+  <li>Featured Projects:
+    <ul>
+      <li>JetiAta (app, social)</li>
+      <li>PriceScanner (app, government service, marketplace)</li>
+      <li>SmartToi.kz (marketplace)</li>
+      <li>Dosmart.kz (marketplace)</li>
+      <li>Qalaisyn.kz (market research)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">February 2013 - June 2018 (5 year 5 months)</code>
+<strong>Frontend ​Engineer​ at Mail.Ru Group</strong></p>
+<ul>
+  <li>Environment
+    <ul>
+      <li>one of the largest IT companies in the eastern part of the European continent.</li>
+      <li>Kanban, Waterfall. small teams with tech-leads.</li>
+      <li>Jira, Confluence, Gitlab, ICQ, Sketch, Photoshop</li>
+    </ul>
+  </li>
+  <li>Key responsibilities:
+    <ul>
+      <li>refactor and redesign frontend architecture</li>
+      <li>design and implement CI/CD</li>
+      <li>integrate BDD</li>
+      <li>improve code quality</li>
+      <li>monitor, analyse and visualise error and csp-reports</li>
+      <li>A/B test management</li>
+      <li>web page performance optimizations</li>
+    </ul>
+  </li>
+  <li>Stack:
+    <ul>
+      <li>React, Webpack</li>
+      <li>Tape, CucumberJS</li>
+      <li>BackboneJS, jQuery, Lodash, RequireJS</li>
+      <li>Grunt, Gulp, Makefile</li>
+      <li>Stylus, BEM, fest</li>
+      <li>ESlint, TSlint, Stylelint, Prettier</li>
+      <li>Docker</li>
+    </ul>
+  </li>
+  <li>Featured Projects:
+    <ul>
+      <li>otvet.mail.ru (social knowledge exchange platform: 40+ millions users per a month)</li>
+      <li>e.mail.ru (gmail of russia)</li>
+      <li>toolkit (company’s components system collaboration tool)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">July 2011 - September 2012 (1 year 3 months)</code>
+<strong>Full stack Developer at Onlife</strong>
+Onlife.su - a startup focused on integration of digital governmental solutions. ​Development of the website constructor in pure JavaScript.</p>
+
+<p><code class="language-plaintext highlighter-rouge">June 2009 - June 2011 (2 years 1 month)</code>
+<strong>PHP Developer at DEFA INTERAKTIV</strong>
+A mid-size web-studio.
+Development and support of enterprise-level projects based on 1C-Bitrix CMS.</p>
+<ul>
+  <li>Internet portal: Kia.ru</li>
+  <li>E-commerce: Multura.com​, Podrygka.ru</li>
+  <li>Corporate websites: Eurosib.ru, Osnova.org, Pda.pgplaw.ru</li>
+  <li>Promo: Smile.beeline.ru​</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">September 2008 - May 2009 (9 months)</code>
+<strong>Full stack Developer at QOBO</strong>
+Mneda.ru - ​a social network platform for realtors. Mysql, php, jQuery</p>
+
+<p><code class="language-plaintext highlighter-rouge">August 2008 (1 year 3 months)</code>
+<strong>Junior Developer at IdexGroup June 2007</strong>
+Support and development of small projects based on 1C-bitrix CMS.</p>
+
+<h2 id="education">Education</h2>
+<p><code class="language-plaintext highlighter-rouge"> 2003-2008</code>
+<strong>The city of Moscow State-Funded Educational Institution of Higher Professional Education “Peoples’ Friendship University of Russia” (RUDN)</strong>
+<strong>Engineer-economist major in “Economics and Company Management (branch-wise)”</strong></p>
+
+<h2 id="free-time">Free time</h2>
+<p>I like listening to podcasts, watching youtube channels of googlers (espesially Jake Archibald and Surma), following front-end gurus on twitter (like Axel Rauschmayer) and of course reading technical articles to be in touch with the latest tendencies and bleeding edge of front-end development. I like travelling, bicycles, football, diving, ski and squash. I also like attending tech conferences, hackathons and meetups. I am contantly improving my english and french by taking group and individual cources.</p>
+
+<h2 id="languages">Languages</h2>
+<ul>
+  <li>Russian - native</li>
+  <li>English - upper intermediate (Berlitz certificate)</li>
+  <li>French - A1.2 (CECRL certificate)</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: Sep 2020 -->
+
+:ET

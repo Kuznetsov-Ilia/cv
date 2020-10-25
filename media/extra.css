@@ -1,0 +1,6 @@
+img[alt$="ava"] {
+    float: right;
+    width: 2em;
+    display: block;
+    height: 2em;
+}

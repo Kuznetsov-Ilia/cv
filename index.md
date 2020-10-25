@@ -2,30 +2,29 @@
 layout: cv
 title: Ilia Kuznetsov's CV
 ---
-# Ilia Kuznetsov
-Software Engineer
+<img src=/ava.jpg width=275 style="float: right" />
 
-<div id="webaddress">
-    <a href="mailto:ilia.q.86@gmail.com">ilia.q.86@gmail.com</a>
-    <a href="call:+352621825223">+352 621-825-223</a>
+### Ilia Kuznetsov
+Senior Software Engineer
+✉️ ilia.q.86@gmail.com
+🤙 +352 621-825-223
+📍 Grevenmacher, Luxembourg
+🇷🇺 russian - native
+🇬🇧 english - upper intermediate (Berlitz certificate)
+🇫🇷 french  - A1.2 (CECRL certificate)
 </div>
 
 ### Objective
 I've been working as software engineer for 13 years in 3 countries, in enterprises and startups, in domains of marketplace, e-commerce, entertaiment and social network.
 As a highly-skilled, innovative and creative team player I am looking for the competitive engineer position where I can utilize my experience in delivering the most valuable user experience within reasonable timing. Having started as a PHP CMS developer and having passed through all stages of enterprise-level projects I possess profound knowledge of flexibility and creativity needed to meet user requirements and exceed the expectations. Along with my passion to learn and wide practical experience in using the cutting edge front-end tools and technologies including React, TypeScript I always keep a project in modern and highly maintainable state so vital for stability and success.
 
-### Specialized in
-SPA, PWA, Docker, React, TypeScript, NodeJs
+### 🎓 Education
+__2003-2008__ The city of Moscow State-Funded Educational Institution of Higher Professional Education Peoples Friendship University of Russia (__RUDN__)
+_Engineer-economist major_ in Economics and Company Management (branch-wise)
 
-### Research interests
-Stencil, Snowpack, Svelte, lit-html, MongoDB
-
-### Background
-Go, Php, Perl, Lua, Postgrest, PL/pgSQL, Openresty, Tarantool
-
-### Technical Skills
+#### 🤹🏻 Technical Skills
 | Area          |  Sub-area                     | Exp   |
-|-------------- |:-----------------------------:|------:|
+|-------------- |------------------------------:|:------|
 | Languages     | JS, TypeScript, NodeJs        | +++++ |
 | Libraries     | React, Redux, Storybook       | +++++ |
 | Mobile        | React Native, Ionic           | ++    |
@@ -37,10 +36,19 @@ Go, Php, Perl, Lua, Postgrest, PL/pgSQL, Openresty, Tarantool
 | Styling       | CSS Modules, PostCSS, Sass    | +++++ |
 | Extra         | Go, Openresty, Postgrest      | ++    |
 
-## Professional experience
+##### 🎯 Specialized in
+SPA, PWA, Docker, React, TypeScript, NodeJs
 
-`June 2019 - Present`
-__Senior Software Engineer​ at ​DoclerHolding__
+##### 🔬 Research interests
+Stencil, Snowpack, Svelte, lit-html, MongoDB
+
+##### 📜 Background
+Go, Php, Perl, Lua, Postgrest, PL/pgSQL, Openresty, Tarantool
+
+### 💼 Professional experience
+
+| `June 2019 - Present`                         |         __Senior Software Engineer​ at ​DoclerHolding__ |
+|---------------------------------------------- |------------------------------------------------------:|
 * Environment:
     * quickly growing medium enterprise company with a startup spirit in entertainment sector
     * Agile, Scrum, 2 weeks sprints with everyday releases. classical hierarchy with leads inside the team.
@@ -52,21 +60,21 @@ __Senior Software Engineer​ at ​DoclerHolding__
     * upgrade project development infrastructure and tooling
     * research, consolidate technical plans for product feature implementation
     * oversee best coding practices and long term code quality and reliability
-    * mentor teammates by providing extended cr, technical meetups, pair programming
+    * mentoring teammates by providing extended cr, technical meetups, pair programming
     * teaching and learning from others in skills and technologies well outside my comfort zone
     * focus on spreading knowledge, professional growth and mentoring
     * interviewing new candidates
 * Stack
-    * React (Hooks, new Context Api), Typescript, Storybook, TSlint
-    * Codecept, jest, enzyme, testing-library
-    * PostCSS, Sass, Styled Components, ​Prettier,
+    * React (Hooks, new Context Api), Redux slices, Typescript, Storybook
+    * Codecept, jest, enzyme, testing-library, TSlint
+    * PostCSS, Sass, Styled Components, ​Prettier
     * Docker
 * Featured Projects:
     * admin panels, landings and feature-projects.
 
-
-`June 2018 - June 2019 (1 year)`
-__Senior Software Engineer​ at B​TSDigital__
+---------------------------------------------------------------------------------------------------------
+| `June 2018 - June 2019 (1 year)`              |            __Senior Software Engineer​ at B​TSDigital__ |
+|---------------------------------------------- |------------------------------------------------------:|
 * Environment
     * growing startup in domains: social, government service, marketplace, market research.
     * Agile, Scrum, 1 week sprints. teamlead-less teams. Tribal structure with leads only in chapters.
@@ -93,8 +101,9 @@ __Senior Software Engineer​ at B​TSDigital__
     * Dosmart.kz (marketplace)
     * Qalaisyn.kz (market research)
 
-`February 2013 - June 2018 (5 year 5 months)`
-__Frontend ​Engineer​ at Mail.Ru Group__
+---------------------------------------------------------------------------------------------------------
+| `February 2013 - June 2018 (5 year 5 months)`  |         __Senior Software Engineer​ at MailRu__ |
+|----------------------------------------------- |-----------------------------------------------------:|
 * Environment
     * one of the largest IT companies in the eastern part of the European continent.
     * Kanban, Waterfall. small teams with tech-leads.
@@ -109,7 +118,7 @@ __Frontend ​Engineer​ at Mail.Ru Group__
     * web page performance optimizations
 * Stack:
     * React, Webpack
-    * Tape, Cucumber js
+    * Tape, CucumberJS
     * BackboneJS, jQuery, Lodash, RequireJS
     * Grunt, Gulp, Makefile
     * Stylus, BEM, fest
@@ -121,39 +130,37 @@ __Frontend ​Engineer​ at Mail.Ru Group__
     * toolkit (company's components system collaboration tool)
 
 
-`July 2011 - September 2012 (1 year 3 months)`
-__Full stack Developer at Onlife__
-Onlife.su - a startup focused on integration of digital governmental solutions. ​Development of the website constructor in pure JavaScript.
+----------------------------------------------------------------------------------------------------------
+| `July 2011 - September 2012 (1 year 3 months)` |                    __Full stack Developer at Onlife__ |
+|----------------------------------------------- |------------------------------------------------------:|
+Onlife.su - a startup focused on integration of digital governmental solutions.
+​Development of the website constructor in pure JavaScript.
 
-`June 2009 - June 2011 (2 years 1 month)`
-__PHP Developer at DEFA INTERAKTIV__
-A mid-size web-studio.
+----------------------------------------------------------------------------------------------------------
+| `June 2009 - June 2011 (2 years 1 month)`      |           __Full stack Developer at DEFA INTERAKTIV__ |
+|----------------------------------------------- |------------------------------------------------------:|
 Development and support of enterprise-level projects based on 1C-Bitrix CMS.
-* Internet portal: Kia.ru
+A mid-size web-studio.
+* Internet portal: Kia Motors
 * E-commerce: Multura.com​, Podrygka.ru 
 * Corporate websites: Eurosib.ru, Osnova.org, Pda.pgplaw.ru
 * Promo: Smile.beeline.ru​
 
-`September 2008 - May 2009 (9 months)`
-__Full stack Developer at QOBO__
+----------------------------------------------------------------------------------------------------------
+| `September 2008 - May 2009 (9 months)`         |                      __Full stack Developer at QOBO__ |
+|----------------------------------------------- |------------------------------------------------------:|
 Mneda.ru - ​a social network platform for realtors. Mysql, php, jQuery
 
-`August 2008 (1 year 3 months)`
-__Junior Developer at IdexGroup June 2007__
+----------------------------------------------------------------------------------------------------------
+| `June 2007 - August 2008 (1 year 3 months)`    |                     __Junior Developer at IdexGroup__ |
+|----------------------------------------------- |------------------------------------------------------:|
 Support and development of small projects based on 1C-bitrix CMS.
 
-## Education
-` 2003-2008`
-__The city of Moscow State-Funded Educational Institution of Higher Professional Education “Peoples’ Friendship University of Russia” (RUDN)__
-__Engineer-economist major in “Economics and Company Management (branch-wise)”__
+### ✈️ ⚽ 🚴 🤿 ⛷️ Free time
+I really love attending tech conferences, hackathons and meetups. I am contantly improving my english and french by taking group and individual cources.
+I like listening to podcasts, watching youtube channels of googlers (espesially Jake Archibald and Surma), following front-end gurus on twitter (like Axel Rauschmayer) and of course reading technical articles to be in touch with the latest tendencies and bleeding edge of front-end development.
+My hobby is travelling, bicycles, football, diving, ski and squash. 
 
-## Free time
-I like listening to podcasts, watching youtube channels of googlers (espesially Jake Archibald and Surma), following front-end gurus on twitter (like Axel Rauschmayer) and of course reading technical articles to be in touch with the latest tendencies and bleeding edge of front-end development. I like travelling, bicycles, football, diving, ski and squash. I also like attending tech conferences, hackathons and meetups. I am contantly improving my english and french by taking group and individual cources.
-
-## Languages
-* Russian - native
-* English - upper intermediate (Berlitz certificate)
-* French - A1.2 (CECRL certificate)
 
 <!-- ### Footer
 
