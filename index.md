@@ -11,7 +11,7 @@ Senior Software Engineer
 📍 Grevenmacher, Luxembourg
 🇷🇺 russian - native
 🇬🇧 english - upper intermediate (Berlitz certificate)
-🇫🇷 french  - A1.2 (CECRL certificate)
+🇫🇷 french  - A2.2 (CECRL certificate)
 </div>
 
 ### Objective
@@ -156,10 +156,14 @@ Mneda.ru - ​a social network platform for realtors. Mysql, php, jQuery
 |----------------------------------------------- |------------------------------------------------------:|
 Support and development of small projects based on 1C-bitrix CMS.
 
+
 ### ✈️ ⚽ 🚴 🤿 ⛷️ Free time
-I really love attending tech conferences, hackathons and meetups. I am contantly improving my english and french by taking group and individual cources.
+<img src=/hackathon-jasmin.jpeg width=450 style="float: right; margin: 1rem" />
+I really love attending tech conferences, hackathons and meetups.
 I like listening to podcasts, watching youtube channels of googlers (espesially Jake Archibald and Surma), following front-end gurus on twitter (like Axel Rauschmayer) and of course reading technical articles to be in touch with the latest tendencies and bleeding edge of front-end development.
+
 My hobby is travelling, bicycles, football, diving, ski and squash. 
+
 
 
 <!-- ### Footer
